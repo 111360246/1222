@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\A315\Desktop\程式設計\1222\P15\P15\Source.cpp(7,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\A315\Desktop\程式設計\1222\P15\P15\Source.cpp(8,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P15.vcxproj -> C:\Users\A315\Desktop\程式設計\1222\P15\Debug\P15.exe
